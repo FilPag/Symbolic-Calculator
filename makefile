@@ -8,6 +8,7 @@ MAIN = calculator.parser.Calculator
 all:
 	javac -d classes -cp classes $(AST)*.java
 	javac -d classes -cp classes $(CALCULATOR)*.java
+
 run: all
 	java  -cp classes $(MAIN)
 
