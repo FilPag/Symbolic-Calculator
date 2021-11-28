@@ -101,7 +101,8 @@ Keywords:<br>
 
 
 ### Misc 
-`quit` - Exits the calculator
+`quit` - Exits the calculator<br>
+`clear` - Clears all variable in a scope
 
 # Usage
 `make ` - compile <br>
