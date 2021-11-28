@@ -1,4 +1,5 @@
 # Symbolic Calculator
+A symbolic calculator supporting everything from basic arithmetic to custom function declaration and recursion.
 
 # Operations
 ### Constants 
